@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jordan Ashment!
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jashment&repo=github-readme-stats)](https://github.com/jashment/github-readme-stats)
+[![Jashment's github stats](https://github-readme-stats.vercel.app/api?username=jashment)](https://github.com/jashment/github-readme-stats)
 
 <!--
 **jashment/jashment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
