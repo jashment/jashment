@@ -14,7 +14,7 @@ I am a web developer with experience in both the Frontend and Backend.  I am fam
 
 I've also had experience with many other languages such as HTML, CSS, JavaScript, ExpressJS, Mongoose etc. I love learning new things and trying out languages and frameworks. I have the most experience with React and Node right now seeing as that is what I build with at my job.  
 
-I have a bachelor's degree in Web Design and Development (Emphasis in Web and App Development) and have built some interesting things. I absolutely love what I do and I will continue to have a passion for development!
+I have a bachelor's degree in Web Design and Development (Emphasis in Web and App Development) and have built some interesting things. I absolutely love what I do and I will continue to have a passion for development forever!
 
 
 <!--
