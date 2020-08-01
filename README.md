@@ -6,11 +6,13 @@ I am a web developer with experience in both the Frontend and Backend.  I am fam
  
 [![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_32.png)](https://html.spec.whatwg.org/multipage/) HTML  
 [![CSS](/icons/css.png)](https://www.w3.org/Style/CSS/Overview.en.html) CSS  
+[![JavaScript](/icons/js-javascript.ico)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript  
 [![ReactJS](https://api.faviconkit.com/reactjs.org/)](https://reactjs.org/) ReactJS  
 [![VueJS](https://api.faviconkit.com/vuejs.org/)](https://vuejs.org/) VueJS  
 [![NodeJS](https://api.faviconkit.com/nodejs.org/)](https://nodejs.org/en/)NodeJS  
 [![Firebase](https://api.faviconkit.com/firebase.google.com/)](https://firebase.google.com/)Firebase  
-[![Firebase](https://api.faviconkit.com/github.com/)](https://github.com/)Git/Github  
+[![Git/Github](https://api.faviconkit.com/github.com/)](https://github.com/)Git/Github  
+[![MongoDB](https://api.faviconkit.com/mongodb.com/)](https://www.mongodb.com/)MonogDB 
 
 
 <!--
