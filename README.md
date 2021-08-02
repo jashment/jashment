@@ -1,7 +1,5 @@
 ### Hi I'm Jordan Ashment!
 
-[![Jashment's github stats](https://github-readme-stats.vercel.app/api?username=jashment)](https://github.com/jashment/github-readme-stats)
-
 I am a web developer with experience in both the Frontend and Backend.  I am familiar with languages and frameworks such as:  
  
 [![ReactJS](https://api.faviconkit.com/reactjs.org/)](https://reactjs.org/) ReactJS  
