@@ -8,6 +8,7 @@ I am a web developer with experience in both the Frontend and Backend.  I am fam
 [![Firebase](https://api.faviconkit.com/firebase.google.com/)](https://firebase.google.com/)Firebase  
 [![Git/Github](https://api.faviconkit.com/github.com/)](https://github.com/)Git/Github  
 [![MongoDB](https://api.faviconkit.com/mongodb.com/)](https://www.mongodb.com/)MonogDB  
+[![Python](https://api.faviconkit.com/python.org/)](https://www.python.org/)Python  
 
 
 I've also had experience with many other languages such as HTML, CSS, JavaScript, ExpressJS, Mongoose etc. I love learning new things and trying out languages and frameworks. I have the most experience with React and Node right now seeing as that is what I build with at my job.  
