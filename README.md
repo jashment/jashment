@@ -2,13 +2,13 @@
 
 I am a web developer with experience in both the Frontend and Backend.  I am familiar with languages and frameworks such as:  
  
-[![ReactJS](https://tropical-lavender-manatee.faviconkit.com/reactjs.org/128)](https://reactjs.org/) ReactJS  
+[![ReactJS](https://tropical-lavender-manatee.faviconkit.com/reactjs.org/256)](https://reactjs.org/) ReactJS  
 [![VueJS](https://tropical-lavender-manatee.faviconkit.com/vuejs.org/256)](https://vuejs.org/) VueJS  
-[![NodeJS](https://tropical-lavender-manatee.faviconkit.com/nodejs.org/128)](https://nodejs.org/en/)NodeJS  
-[![Firebase](https://tropical-lavender-manatee.faviconkit.com/firebase.google.com/128)](https://firebase.google.com/)Firebase  
-[![Git/Github](https://tropical-lavender-manatee.faviconkit.com/github.com/128)](https://github.com/)Git/Github  
-[![MongoDB](https://tropical-lavender-manatee.faviconkit.com/mongodb.com/128)](https://www.mongodb.com/)MonogDB  
-[![Python](https://tropical-lavender-manatee.faviconkit.com/python.org/128)](https://www.python.org/)Python  
+[![NodeJS](https://tropical-lavender-manatee.faviconkit.com/nodejs.org/256)](https://nodejs.org/en/)NodeJS  
+[![Firebase](https://tropical-lavender-manatee.faviconkit.com/firebase.google.com/256)](https://firebase.google.com/)Firebase  
+[![Git/Github](https://tropical-lavender-manatee.faviconkit.com/github.com/256)](https://github.com/)Git/Github  
+[![MongoDB](https://tropical-lavender-manatee.faviconkit.com/mongodb.com/256)](https://www.mongodb.com/)MonogDB  
+[![Python](https://tropical-lavender-manatee.faviconkit.com/python.org/256)](https://www.python.org/)Python  
 
 
 I've also had experience with many other languages such as HTML, CSS, JavaScript, ExpressJS, Mongoose etc. I love learning new things and trying out languages and frameworks. I have the most experience with React and Node right now seeing as that is what I build with at my job.  
