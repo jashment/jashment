@@ -2,13 +2,13 @@
 
 I am a web developer with experience in both the Frontend and Backend.  I am familiar with languages and frameworks such as:  
  
-[![ReactJS](https://api.faviconkit.com/reactjs.org/)](https://reactjs.org/) ReactJS  
-[![VueJS](https://api.faviconkit.com/vuejs.org/)](https://vuejs.org/) VueJS  
-[![NodeJS](https://api.faviconkit.com/nodejs.org/)](https://nodejs.org/en/)NodeJS  
-[![Firebase](https://api.faviconkit.com/firebase.google.com/)](https://firebase.google.com/)Firebase  
-[![Git/Github](https://api.faviconkit.com/github.com/)](https://github.com/)Git/Github  
-[![MongoDB](https://api.faviconkit.com/mongodb.com/)](https://www.mongodb.com/)MonogDB  
-[![Python](https://api.faviconkit.com/python.org/)](https://www.python.org/)Python  
+[![ReactJS](https://api.faviconkit.com/reactjs.org/57)](https://reactjs.org/) ReactJS  
+[![VueJS](https://api.faviconkit.com/vuejs.org/57)](https://vuejs.org/) VueJS  
+[![NodeJS](https://api.faviconkit.com/nodejs.org/57)](https://nodejs.org/en/)NodeJS  
+[![Firebase](https://api.faviconkit.com/firebase.google.com/57)](https://firebase.google.com/)Firebase  
+[![Git/Github](https://api.faviconkit.com/github.com/57)](https://github.com/)Git/Github  
+[![MongoDB](https://api.faviconkit.com/mongodb.com/57)](https://www.mongodb.com/)MonogDB  
+[![Python](https://api.faviconkit.com/python.org/57)](https://www.python.org/)Python  
 
 
 I've also had experience with many other languages such as HTML, CSS, JavaScript, ExpressJS, Mongoose etc. I love learning new things and trying out languages and frameworks. I have the most experience with React and Node right now seeing as that is what I build with at my job.  
