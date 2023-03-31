@@ -3,7 +3,7 @@
 I am a web developer with experience in both the Frontend and Backend.  I am familiar with languages and frameworks such as:  
  
 [![ReactJS](https://tropical-lavender-manatee.faviconkit.com/reactjs.org/128)](https://reactjs.org/) ReactJS  
-[![VueJS](https://tropical-lavender-manatee.faviconkit.com/vuejs.org/128)](https://vuejs.org/) VueJS  
+[![VueJS](https://tropical-lavender-manatee.faviconkit.com/vuejs.org/256)](https://vuejs.org/) VueJS  
 [![NodeJS](https://tropical-lavender-manatee.faviconkit.com/nodejs.org/128)](https://nodejs.org/en/)NodeJS  
 [![Firebase](https://tropical-lavender-manatee.faviconkit.com/firebase.google.com/128)](https://firebase.google.com/)Firebase  
 [![Git/Github](https://tropical-lavender-manatee.faviconkit.com/github.com/128)](https://github.com/)Git/Github  
