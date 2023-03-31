@@ -6,7 +6,7 @@ I am a web developer with experience in both the Frontend and Backend.  I am fam
 [![VueJS](https://tropical-lavender-manatee.faviconkit.com/vuejs.org/256)](https://vuejs.org/) VueJS  
 [![NodeJS](https://tropical-lavender-manatee.faviconkit.com/nodejs.org/256)](https://nodejs.org/en/)NodeJS  
 [![Firebase](https://tropical-lavender-manatee.faviconkit.com/firebase.google.com/256)](https://firebase.google.com/)Firebase  
-[![Git/Github](https://tropical-lavender-manatee.faviconkit.com/github.com/256)](https://github.com/)Git/Github  
+[![Git/Github](https://tropical-lavender-manatee.faviconkit.com/github.com/128)](https://github.com/)Git/Github  
 [![MongoDB](https://tropical-lavender-manatee.faviconkit.com/mongodb.com/256)](https://www.mongodb.com/)MonogDB  
 [![Python](https://tropical-lavender-manatee.faviconkit.com/python.org/256)](https://www.python.org/)Python  
 
